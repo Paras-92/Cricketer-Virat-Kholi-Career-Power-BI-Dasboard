@@ -14,10 +14,11 @@ The dashboard features the following critical metrics:
 
 1. **Total Innings**: The total number of innings played by Virat Kohli in T20, ODI, and Test formats.
 2. **Total Runs**: The total runs scored in each format (T20, ODI, Test).
-3. **Batting Average**: The average runs scored per innings in each format.
+3. **Batting Average**: The average runs scored per inning in each format.
 4. **Strike Rate**: The strike rate for Virat Kohli across the different formats.
 5. **Fours and Sixes**: The total number of fours and sixes hit throughout his career.
 6. **Fifties and Hundreds**: The total number of half-centuries (50s) and centuries (100s) scored.
+ ![image](https://github.com/user-attachments/assets/309067ab-435a-4389-a84d-c4496e0b3a85)
 
 ## Features
 
